@@ -18,18 +18,16 @@ nav a:hover {
 	background-color: #DDD;
 	color: black;
 }
-#phone{
+
+#mail{
 	color: #0080FF;
 }
-#mail{
-	color: #0E11B0;
-}
 #linked{
-	color: #0E11B0;
+	color: #0080FF;
 	
 }
 #facebook{
-	color: #0E11B0;
+	color: #0080FF;
 	
 }
 #left_side{
