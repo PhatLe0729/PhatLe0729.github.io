@@ -48,9 +48,7 @@ nav a:hover {
 #profile{
 	display: center;
 }
-.error{
-	text-decoration: none;
-}
+
 footer{
 	padding: 10px 20px;
 	text-align: center;
@@ -78,6 +76,9 @@ footer{
 }
 
 @media(max-width: 800px){
+	.error{
+	text-decoration: none;
+	}
 	#left_side{
 		flex: 100%;
 	}
