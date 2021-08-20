@@ -13,13 +13,21 @@ nav a{
 	padding: 14px 20px;
 	display: block;
 	text-align: center;
-}resurereu
+}
 nav a:hover {
 	background-color: #DDD;
 	color: black;
 }
-p{
-	text-decoration: none;	
+#mail{
+	color: #0080FF;
+}
+#linked{
+	color: #0080FF;
+	
+}
+#facebook{
+	color: #0080FF;
+	
 }
 #left_side{
 	flex: 30%;
@@ -36,6 +44,9 @@ p{
 }
 #profile{
 	display: center;
+}
+.error{
+	text-decoration: none;
 }
 footer{
 	padding: 10px 20px;
